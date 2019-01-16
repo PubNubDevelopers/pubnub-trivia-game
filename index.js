@@ -12,11 +12,11 @@ var optionBText;
 var optionCText;
 var optionDText;
 
-const grant_access_url = "https://pubsub.pubnub.com/v1/blocks/sub-key/sub-c-6a727412-91c6-11e8-b36b-922642fc525d/grantAccess";
+const grant_access_url = "https://pubsub.pubnub.com/v1/blocks/sub-key/sub-c-aba65a72-1937-11e9-b43f-7a31102fe3bb/grantAccess";
 
-const subscribe_key = "sub-c-6a727412-91c6-11e8-b36b-922642fc525d";
+const subscribe_key = "sub-c-aba65a72-1937-11e9-b43f-7a31102fe3bb";
 
-const publish_key = "pub-c-e8c60862-b990-42c1-add2-49acc66f1b4c";
+const publish_key = "pub-c-1ce0e108-3ae2-46f6-9ee7-97bcd7796c33";
 
 /**
  * Randomly generate UUID for user, then grant access for it!
